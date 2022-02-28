@@ -1,0 +1,9 @@
+Cleanup Windows
+
+Run Powershell with elevated admin rights
+iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JJ8R4'))
+
+Debloat Windows
+iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/debloat'))
+
+credit:  https://www.christitus.com
